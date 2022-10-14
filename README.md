@@ -19,7 +19,7 @@
 
 - 📄 My Fiverr Account [https://www.fiverr.com/msulemankhan111](https://www.fiverr.com/msulemankhan111)
 
-- ⚡ Fun fact **I am never satisfied by myself**
+- ⚡ My Super power: **Love Reading Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
