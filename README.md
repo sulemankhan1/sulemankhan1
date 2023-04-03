@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/msulemankhan321" target="blank"><img src="https://img.shields.io/twitter/follow/msulemankhan321?logo=twitter&style=for-the-badge" alt="msulemankhan321" /></a> </p>
 
-- 🔭 I’m currently working with **ShinyProxima**
+- 🔭 I’m currently working with **NausalTech**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sulemankhan1](https://github.com/sulemankhan1)
+- 👨‍💻 All my projects are available at [https://github.com/sulemankhan1](https://github.com/sulemankhan1)
 
 - 📝 My Youtube Channel [https://www.youtube.com/channel/UCnMv5xicKXkUAnKGleECAQw](https://www.youtube.com/channel/UCnMv5xicKXkUAnKGleECAQw)
 
