@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **react, nextjs, PHP**
 
-- 📫 How to reach me **m.sulemankhan111@gmail.com**
-
-- 📄 My Fiverr Account [https://www.fiverr.com/msulemankhan111](https://www.fiverr.com/msulemankhan111)
+- 📫 Email me on: **m.sulemankhan111@gmail.com**
 
 - ⚡ My Super power: **Love Reading Books** (Eat that Frog is my favourite)
 
